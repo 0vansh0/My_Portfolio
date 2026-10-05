@@ -21,7 +21,7 @@ I’m a developer and BS-MS student at IIT Patna, studying Artificial Intelligen
 
 A React discovery interface connected to TMDB API data. The portfolio includes a small local sample search and genre filter; its sample entries are illustrative and are not live API results.
 
-- [Open the live demo](https://cristal-movie-discovery-ewml.vercel.app/)
+- [Open the live demo](https://my-portfolio-blond-chi-90.vercel.app)
 - Stack: React, JavaScript, TMDB API, CSS
 
 ### Second Sale — Campus Marketplace
