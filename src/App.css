@@ -686,6 +686,26 @@ section[id] {
     #15151b;
 }
 
+.project-visual-klyro {
+  background:
+    radial-gradient(
+      circle at center,
+      rgba(112, 217, 196, 0.14),
+      transparent 45%
+    ),
+    #121a19;
+}
+
+.project-visual-greencart {
+  background:
+    radial-gradient(
+      circle at center,
+      rgba(153, 203, 116, 0.15),
+      transparent 45%
+    ),
+    #171a14;
+}
+
 .project-visual-index {
   position: absolute;
   top: 22px;
@@ -717,6 +737,14 @@ section[id] {
 
 .project-visual-secondsale .project-symbol {
   color: #9dafff;
+}
+
+.project-visual-klyro .project-symbol {
+  color: #70d9c4;
+}
+
+.project-visual-greencart .project-symbol {
+  color: #a4d77e;
 }
 
 .project-visual-line {
